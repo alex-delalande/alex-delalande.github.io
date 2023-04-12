@@ -4,7 +4,7 @@ body {
     font-family: helvetica;
     line-height: 130%;
     color: #222;
-    margin-top: 0;
+    margin-top: 10em;
     margin-bottom: 0;
     background-color: white;
 }
@@ -140,4 +140,9 @@ p {
 
 .redText{
     color: #DB4437;
+}
+
+
+.toggle-content {
+    display: none;
 }
